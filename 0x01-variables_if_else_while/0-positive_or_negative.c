@@ -3,7 +3,7 @@
 #include<stdio.h>
 /**
  *
- * Main = Entry poin
+ * Main - Entry poin
  *
  * description: if else statement
  *
