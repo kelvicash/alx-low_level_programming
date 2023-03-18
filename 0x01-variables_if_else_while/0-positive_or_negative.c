@@ -2,12 +2,10 @@
 #include <time.h>
 #include<stdio.h>
 /**
+ * main - Entry point
  *
- *main - entry poin
+ * Return: Always (0) success
  *
- *description: if else statement
- *
- *return: always (0) success
  */
 int main(void)
 {
