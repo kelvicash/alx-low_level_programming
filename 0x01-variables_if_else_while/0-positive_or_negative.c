@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include<stdio.h>
-/** more headers goes there 
+/**
  *
- * Main = entry point
- *description: "another while loop"
- * Return: always (0)succes
+ * Main = Entry poin
+ *
+ * description: if else statement
+ *
+ * return: always (0) success
  */
 int main(void)
 {
