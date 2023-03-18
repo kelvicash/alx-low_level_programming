@@ -3,11 +3,11 @@
 #include<stdio.h>
 /**
  *
- * Main - Entry poin
+ *main - entry poin
  *
- * description: if else statement
+ *description: if else statement
  *
- * return: always (0) success
+ *return: always (0) success
  */
 int main(void)
 {

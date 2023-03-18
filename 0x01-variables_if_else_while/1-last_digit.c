@@ -2,11 +2,10 @@
 #include <time.h>
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - entry point
  *
- * description: my file in c
- * return: alwyas (0) success
- */
+ * return: always (0) success
+ */ 
 int main(void)
 {
 	int n;
@@ -16,11 +15,11 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	ld = n % 10;
-	if (n > 5)
+	if (ld > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, ld);
 	}
-	else if (n == 0)
+	else if (ld == 0)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, ld);
 	}
