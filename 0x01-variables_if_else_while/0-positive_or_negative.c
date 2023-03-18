@@ -3,8 +3,8 @@
 #include<stdio.h>
 /** more headers goes there 
  *
- * Main always (0) success
- *
+ * Main = entry point
+ *description: "another while loop"
  * Return: always (0)succes
  */
 int main(void)
