@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * _islower - prints alphabet in lowercase
- *@i: input int
+ * _islower - prints alphabet in lowercase.
+ * @c: input int
  * Return: 1 for lowercase else 0
  */
 int _islower(int c)
