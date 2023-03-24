@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void print_triangle - drawing a triangle sahpe
+ * print_triangle - drawing a triangle sahpe
  *
  * @size: triangle size input
  *

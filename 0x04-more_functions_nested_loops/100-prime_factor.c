@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 /**
  * main - prime factors of a number
  *
@@ -28,6 +29,6 @@ int main(void)
 	}
 	if (n > 2)
 		max = n;
-	printf("%d\n", max);
+	printf("%ld\n", max);
 	return (0);
 }

@@ -1,4 +1,4 @@
-#include "mai.h"
+#include "main.h"
 /**
  * more_numbers - print numbers 10 times.
  *
