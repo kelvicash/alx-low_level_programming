@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-#include <stddef.h>
 /**
  * _strlen - length of a string
  *
@@ -11,10 +10,10 @@
 size_t _strlen(const char *str)
 
 {
-	size_t length = 0;
+	size_t len = 0;
 
-	while (*str++)
-	length++;
-	return (length);
+	while (str++)
+	len++;
+	return (len);
 }
 
